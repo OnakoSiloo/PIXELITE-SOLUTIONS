@@ -79,6 +79,15 @@ The website includes the following features:
 | Week 8 | Final documentation and submission |
 
 
+## Part 1 Details
+
+Part 1 focused on researching, planning and proposing the website for Pixelite Computer Solutions.
+
+The proposal established the organisation’s background, target audience, website goals, objectives, proposed features, design approach, technical requirements, project timeline and estimated budget.
+
+Future submissions will expand the project documentation and website functionality as development progresses.
+
+
 ## Sitemap
 
 ```text
