@@ -78,7 +78,6 @@ The website includes the following features:
 | Week 7 | User experience improvements |
 | Week 8 | Final documentation and submission |
 
-
 ## Part 1 Details
 
 Part 1 focused on researching, planning and proposing the website for Pixelite Computer Solutions.
@@ -107,4 +106,19 @@ Pixelite Computer Solutions
 │
 └── Contact
     └── contact.html
+
+
+
+
+
+References
+
+Mozilla Developer Network (MDN). (2026). HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+Mozilla Developer Network (MDN). (2026). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Mozilla Developer Network (MDN). (2026). JavaScript. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+World Wide Web Consortium (W3C). (2026). Web Standards. Available at: https://www.w3.org/standards/
+
 
