@@ -89,6 +89,7 @@ Future submissions will expand the project documentation and website functionali
 
 ## Sitemap
 
+<details>
 ```text
 Pixelite Computer Solutions
 │
@@ -106,12 +107,11 @@ Pixelite Computer Solutions
 │
 └── Contact
     └── contact.html
+</details>
 
 
+## References
 
-
-
-References
 
 Mozilla Developer Network (MDN). (2026). HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
 
